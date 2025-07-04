@@ -1,0 +1,104 @@
+{
+  "Header.Item1": "À propos de moi",
+  "Header.Item2": "Expérience",
+  "Header.Item3": "Projets",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Mon CV",
+  "Header.cvName": "CV_Hjeiji_Nabil.e156e4320a915fdb800000.pdf",
+
+  "Banner.Pretitle": "Bonjour, je m'appelle",
+  "Banner.Description": "Je suis un <span class='underline'>ingénieur en génie logiciel motivé</span> avec une passion pour les nouvelles technologies. Je développe des applications web modernes avec <span class='underline'>Angular</span> et <span class='underline'>Spring Boot</span>, en suivant les bonnes pratiques et en visant un code propre, réutilisable et évolutif.",
+  "Banner.ActionBtn": "Dis bonjour",
+
+  "AboutMe.Title": "À propos de moi",
+  "AboutMe.Paragraphs": [
+    "Je suis un ingénieur en <span class='underline'>Génie Logiciel</span> diplômé de TEK-UP, passionné par le développement full stack.",
+    "J'ai effectué plusieurs stages et réalisé des projets en utilisant des technologies comme Angular, Spring Boot, MySQL, MongoDB, Docker et Kubernetes.",
+    "Je suis à l’aise avec les architectures microservices, le DevOps, les bases de données relationnelles et NoSQL, et j’aime travailler en équipe.",
+    "J'ai développé des applications dans les domaines de la santé, de l'agriculture, du droit, du sport et des plateformes freelance."
+  ],
+
+  "Experience.Title": "Expérience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Actia",
+      "Title": "Stagiaire Développeur Full Stack (PFE Ingénieur)",
+      "Date": "Fév 2025 - Juil 2025",
+      "Description": [
+        "Développement d’un module de visualisation des fichiers de traces runtime générés par des testeurs.",
+        "Optimisation des performances, gestion mémoire, parsing et débogage.",
+        "Utilisation de Java, Eclipse RCP, Tortoise SVN."
+      ]
+    },
+    {
+      "Tab": "BarmejTech",
+      "Title": "Stagiaire Développeur Full Stack",
+      "Date": "Juil 2024 - Sep 2024",
+      "Description": [
+        "Création d’une plateforme de commande en ligne pour un fast-food avec confirmation de récupération.",
+        "Utilisation d’Angular, Spring Boot, Docker, Kubernetes, MySQL."
+      ]
+    },
+    {
+      "Tab": "BeeCoders",
+      "Title": "Stagiaire Développeur Frontend",
+      "Date": "Juin 2023 - Août 2023",
+      "Description": [
+        "Développement d’une plateforme e-learning avec une interface intuitive.",
+        "Utilisation de SCRUM, Angular, TypeScript, Git, JWT."
+      ]
+    },
+    {
+      "Tab": "Rs_Manager",
+      "Title": "Stagiaire Développeur Full Stack (PFE Licence)",
+      "Date": "Fév 2022 - Juin 2022",
+      "Description": [
+        "Création d’une plateforme de gestion des pièces de rechange.",
+        "Utilisation d’Angular, Express.js, MySQL, Git."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "Mes projets",
+  "FeatureProjects.Label": "Projet phare",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "HealthCare",
+      "Description": "Plateforme de santé innovante avec intelligence artificielle pour analyser les symptômes des patients et offrir des recommandations médicales personnalisées.",
+      "imgs": [],
+      "Technologies": ["Angular", "Django", "MySQL", "Docker", "Kubernetes"]
+    },
+    {
+      "Title": "Agriculture Platform",
+      "Description": "Plateforme agricole en microservices pour consultations entre agriculteurs et ingénieurs, notifications, e-mails, et feedback utilisateur.",
+      "imgs": [],
+      "Technologies": ["Spring Boot", "MongoDB", "MySQL", "Docker", "Feign", "Eureka", "API Gateway"]
+    },
+    {
+      "Title": "LawFirm",
+      "Description": "Plateforme de gestion de dossiers juridiques pour avocats et clients.",
+      "imgs": [],
+      "Technologies": ["Spring Boot", "MySQL", "JWT", "Angular"]
+    },
+    {
+      "Title": "Upwork",
+      "Description": "Application web mettant en relation des freelances et des clients pour des projets divers.",
+      "imgs": [],
+      "Technologies": ["Spring Boot", "MySQL", "JWT"]
+    },
+    {
+      "Title": "App Sportive",
+      "Description": "Application de gestion des équipes de soccer, des matchs et stades, avec intégration météo en temps réel.",
+      "imgs": [],
+      "Technologies": ["Angular", "Express.js", "MongoDB", "Git", "API météo"]
+    }
+  ],
+
+  "OtherProjects.Title": "Autres projets",
+  "OtherProjects.Projects": [],
+
+  "Contact.Pretitle": "Et maintenant ?",
+  "Contact.Title": "Dis bonjour !",
+  "Contact.Content": "N’hésite pas à me contacter si tu veux collaborer ou discuter d’une opportunité. Je répondrai dès que possible !",
+  "Contact.Btn": "Me contacter"
+}
