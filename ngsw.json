@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1751731460481,
+  "timestamp": 1751733635475,
   "index": "/PortfolioNabilHjeiji/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/PortfolioNabilHjeiji/favicon.ico",
         "/PortfolioNabilHjeiji/index.html",
         "/PortfolioNabilHjeiji/main.dbbaa5705c09678a.js",
         "/PortfolioNabilHjeiji/manifest.webmanifest",
@@ -291,8 +290,8 @@
     "/PortfolioNabilHjeiji/assets/fonts/SFMono/SFMono-SemiboldItalic.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
     "/PortfolioNabilHjeiji/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/PortfolioNabilHjeiji/assets/fonts/SFMono/stylesheet.css": "9d845bf2b6a9e53e38bfc797758fbe38c2b99470",
-    "/PortfolioNabilHjeiji/assets/i18n/en.json": "2e9bf2d6344c868d2708fe5365f8b7ff8bd5088e",
-    "/PortfolioNabilHjeiji/assets/i18n/es.json": "40b7257801689c1717af0db87a15d3e6a476245f",
+    "/PortfolioNabilHjeiji/assets/i18n/en.json": "9731441e488b3056f3ce461c94efba8d572de057",
+    "/PortfolioNabilHjeiji/assets/i18n/es.json": "e930845633162937a80f97f432fe6e7204851242",
     "/PortfolioNabilHjeiji/assets/icons/cv plantilla.pdf": "566ecef3024cc9a771c7c80420a3726793a1e26d",
     "/PortfolioNabilHjeiji/assets/icons/folder.svg": "024e52150f03c8e0f77d17979a27ae94830678be",
     "/PortfolioNabilHjeiji/assets/icons/icon-128x128.png": "6ec621358618a961643b4ad9552b2e181e72ac8e",
@@ -393,7 +392,6 @@
     "/PortfolioNabilHjeiji/fa-solid-900.cd7322bf5a6e6fcf.svg": "d92687d30fa0d43f9ae71009398507bf813a6875",
     "/PortfolioNabilHjeiji/fa-solid-900.d5b0a3566b352ee9.ttf": "eb8914f6b1797b45ee0883e6089d92695d9f9441",
     "/PortfolioNabilHjeiji/fa-solid-900.e67670b0779338ff.woff": "a22acd7697f36e7d4cc31a853c70e776eac54bb1",
-    "/PortfolioNabilHjeiji/favicon.ico": "216416b0e8efb71cc8e66e11cc40baf206704576",
     "/PortfolioNabilHjeiji/index.html": "66ea61112410f9708e6db4d2e8a0664ac423a5ba",
     "/PortfolioNabilHjeiji/main.dbbaa5705c09678a.js": "34af670fead4c08f76167e397d54afd13db43077",
     "/PortfolioNabilHjeiji/manifest.webmanifest": "d9e92565b3be092fe728cd4c269af5e866223f8f",

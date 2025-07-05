@@ -1,33 +1,33 @@
 {
-  "Header.Item1": "À propos de moi",
-  "Header.Item2": "Expérience",
+  "Header.Item1": "À propos",
+  "Header.Item2": "Expériences",
   "Header.Item3": "Projets",
   "Header.Item4": "Contact",
-  "Header.cvBtn": "Mon CV",
-  "Header.cvName": "CV_Hjeiji_Nabil.e156e4320a915fdb800000.pdf",
+  "Header.cvBtn": "Télécharger CV",
+  "Header.cvName": "CV_Hjeiji_Nabil.e156e4320a915fdb90000.pdf",
 
-  "Banner.Pretitle": "Bonjour, je m'appelle",
-  "Banner.Description": "Je suis un <span class='underline'>ingénieur en génie logiciel motivé</span> avec une passion pour les nouvelles technologies. Je développe des applications web modernes avec <span class='underline'>Angular</span> et <span class='underline'>Spring Boot</span>, en suivant les bonnes pratiques et en visant un code propre, réutilisable et évolutif.",
-  "Banner.ActionBtn": "Dis bonjour",
+  "Banner.Pretitle": "Bonjour ! Je suis",
+  "Banner.Description": "Je suis un <span class='underline'>ingénieur logiciel motivé</span>, passionné par l’exploration de nouvelles technologies. J’aime contribuer à des projets innovants et apprendre continuellement tout en écrivant du code propre, réutilisable et évolutif avec <span class='underline'>Angular</span>, <span class='underline'>Spring Boot</span> et des <span class='underline'>outils web modernes</span>.",
+  "Banner.ActionBtn": "Discutons !",
 
   "AboutMe.Title": "À propos de moi",
   "AboutMe.Paragraphs": [
-    "Je suis un ingénieur en <span class='underline'>Génie Logiciel</span> diplômé de TEK-UP, passionné par le développement full stack.",
-    "J'ai effectué plusieurs stages et réalisé des projets en utilisant des technologies comme Angular, Spring Boot, MySQL, MongoDB, Docker et Kubernetes.",
-    "Je suis à l’aise avec les architectures microservices, le DevOps, les bases de données relationnelles et NoSQL, et j’aime travailler en équipe.",
-    "J'ai développé des applications dans les domaines de la santé, de l'agriculture, du droit, du sport et des plateformes freelance."
+    "Ingénieur en <span class='underline'>Génie Logiciel</span> diplômé de TEK-UP Tunisie, avec une forte expérience en développement frontend et backend, spécialisé en développement full stack avec <strong>Angular</strong> et <strong>Spring Boot</strong>.",
+    "J’ai réalisé plusieurs stages et projets académiques en utilisant Angular, Spring Boot, MySQL, MongoDB, Docker, Kubernetes, Git et d’autres outils DevOps.",
+    "Mes points forts incluent le <strong>travail en équipe agile</strong>, la conception d’<strong>architectures microservices</strong>, et le déploiement d'applications conteneurisées.",
+    "J’ai développé des applications pour la santé, l’agriculture, les cabinets juridiques, la gestion sportive et les plateformes de freelancing."
   ],
 
-  "Experience.Title": "Expérience",
+  "Experience.Title": "Expériences",
   "Experience.Jobs": [
     {
       "Tab": "Actia",
-      "Title": "Stagiaire Développeur Full Stack (PFE Ingénieur)",
+      "Title": "Stagiaire Développeur Full Stack (Projet de fin d’études ingénieur)",
       "Date": "Fév 2025 - Juil 2025",
       "Description": [
-        "Développement d’un module de visualisation des fichiers de traces runtime générés par des testeurs.",
-        "Optimisation des performances, gestion mémoire, parsing et débogage.",
-        "Utilisation de Java, Eclipse RCP, Tortoise SVN."
+        "Développement d’un module de visualisation des traces runtime pour testeurs industriels dans le secteur automobile.",
+        "Utilisation de Java, Eclipse RCP, optimisation des performances, gestion mémoire et débogage.",
+        "Contrôle de version avec SVN (Tortoise SVN)."
       ]
     },
     {
@@ -35,8 +35,9 @@
       "Title": "Stagiaire Développeur Full Stack",
       "Date": "Juil 2024 - Sep 2024",
       "Description": [
-        "Création d’une plateforme de commande en ligne pour un fast-food avec confirmation de récupération.",
-        "Utilisation d’Angular, Spring Boot, Docker, Kubernetes, MySQL."
+        "Création d’une plateforme de commande en ligne pour fast-food avec planification horaire et notifications.",
+        "Technos : Angular, Spring Boot, MySQL, Docker, Kubernetes.",
+        "Sécurisation avec Spring Security et intégration Docker."
       ]
     },
     {
@@ -44,53 +45,53 @@
       "Title": "Stagiaire Développeur Frontend",
       "Date": "Juin 2023 - Août 2023",
       "Description": [
-        "Développement d’une plateforme e-learning avec une interface intuitive.",
-        "Utilisation de SCRUM, Angular, TypeScript, Git, JWT."
+        "Développement d’une plateforme E-learning avec interface intuitive et fluide.",
+        "Technologies utilisées : Angular, TypeScript, JWT, Git, méthodologie Scrum."
       ]
     },
     {
       "Tab": "Rs_Manager",
-      "Title": "Stagiaire Développeur Full Stack (PFE Licence)",
+      "Title": "Stagiaire Développeur Full Stack (Projet de fin d’études licence)",
       "Date": "Fév 2022 - Juin 2022",
       "Description": [
-        "Création d’une plateforme de gestion des pièces de rechange.",
-        "Utilisation d’Angular, Express.js, MySQL, Git."
+        "Développement d’une plateforme de gestion de pièces détachées.",
+        "Stack technique : Angular, Express.js, MySQL, Git."
       ]
     }
   ],
 
-  "FeatureProjects.Title": "Mes projets",
-  "FeatureProjects.Label": "Projet phare",
+  "FeatureProjects.Title": "Mes Projets",
+  "FeatureProjects.Label": "Projet en vedette",
   "FeatureProjects.Projects": [
     {
       "Title": "HealthCare",
-      "Description": "Plateforme de santé innovante avec intelligence artificielle pour analyser les symptômes des patients et offrir des recommandations médicales personnalisées.",
+      "Description": "Plateforme de santé intelligente basée sur l’IA, permettant d’analyser les symptômes des patients en temps réel et de fournir des recommandations médicales personnalisées.",
       "imgs": [],
       "Technologies": ["Angular", "Django", "MySQL", "Docker", "Kubernetes"]
     },
     {
-      "Title": "Agriculture Platform",
-      "Description": "Plateforme agricole en microservices pour consultations entre agriculteurs et ingénieurs, notifications, e-mails, et feedback utilisateur.",
+      "Title": "Plateforme Agricole",
+      "Description": "Plateforme en architecture microservices favorisant les échanges entre agriculteurs et ingénieurs. Intégration de notifications, e-mails et retours d’expérience.",
       "imgs": [],
       "Technologies": ["Spring Boot", "MongoDB", "MySQL", "Docker", "Feign", "Eureka", "API Gateway"]
     },
     {
       "Title": "LawFirm",
-      "Description": "Plateforme de gestion de dossiers juridiques pour avocats et clients.",
+      "Description": "Application de gestion de dossiers juridiques pour avocats et clients. Fonctionnalités sécurisées, tableaux de bord et accès restreint.",
       "imgs": [],
       "Technologies": ["Spring Boot", "MySQL", "JWT", "Angular"]
     },
     {
-      "Title": "Upwork",
-      "Description": "Application web mettant en relation des freelances et des clients pour des projets divers.",
+      "Title": "Clone Upwork",
+      "Description": "Plateforme connectant freelances et clients pour collaborer sur des projets professionnels variés.",
       "imgs": [],
       "Technologies": ["Spring Boot", "MySQL", "JWT"]
     },
     {
-      "Title": "App Sportive",
-      "Description": "Application de gestion des équipes de soccer, des matchs et stades, avec intégration météo en temps réel.",
+      "Title": "Gestion Sportive",
+      "Description": "Application de gestion d’équipes de football, matchs, joueurs et stades, avec intégration d’une API météo en temps réel.",
       "imgs": [],
-      "Technologies": ["Angular", "Express.js", "MongoDB", "Git", "API météo"]
+      "Technologies": ["Angular", "Express.js", "MongoDB", "Git", "API Météo"]
     }
   ],
 
@@ -98,7 +99,7 @@
   "OtherProjects.Projects": [],
 
   "Contact.Pretitle": "Et maintenant ?",
-  "Contact.Title": "Dis bonjour !",
-  "Contact.Content": "N’hésite pas à me contacter si tu veux collaborer ou discuter d’une opportunité. Je répondrai dès que possible !",
+  "Contact.Title": "Discutons !",
+  "Contact.Content": "N’hésite pas à me contacter pour collaborer, discuter d’une idée ou d’une opportunité. Je te répondrai dès que possible !",
   "Contact.Btn": "Me contacter"
 }

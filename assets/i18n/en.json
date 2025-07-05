@@ -8,14 +8,15 @@
 
   "Banner.Pretitle": "Hi! I'm",
   "Banner.Description": "I'm a <span class='underline'>motivated software engineer</span> passionate about exploring new technologies. I enjoy contributing to innovative projects and continuously learning while writing clean, reusable, and scalable code using <span class='underline'>Angular</span>, <span class='underline'>Spring Boot</span>, and <span class='underline'>modern web tools</span>.",
+
   "Banner.ActionBtn": "Say Hi",
 
   "AboutMe.Title": "About Me",
   "AboutMe.Paragraphs": [
-    "Engineer in <span class='underline'>Software Engineering</span> from TEK-UP Tunisia with strong experience in both frontend and backend development.",
-    "I've completed several internships and academic projects using technologies like Angular, Spring Boot, MySQL, MongoDB, Docker, and Kubernetes.",
-    "My strengths include teamwork, DevOps knowledge, and the ability to implement scalable microservice architectures.",
-    "I have also developed applications for healthcare, agriculture, law firms, sports management, and freelancing platforms."
+    "Engineer in <span class='underline'>Software Engineering</span> from TEK-UP Tunisia with strong experience in both frontend and backend development, specialized in full stack development using <strong>Angular</strong> and <strong>Spring Boot</strong>.",
+    "I've completed several internships and academic projects using technologies like Angular, Spring Boot, MySQL, MongoDB, Docker, Kubernetes, Git, and DevOps tools.",
+    "My strengths include <strong>agile teamwork</strong>, knowledge of <strong>microservice architectures</strong>, API development, and containerized deployment.",
+    "I have also developed full-featured applications for healthcare, agriculture, law firms, sports team management, and freelancing platforms, often using REST APIs and secure authentication with JWT."
   ],
 
   "Experience.Title": "Experience",
@@ -25,9 +26,9 @@
       "Title": "Full Stack Developer Intern (Engineer PFE)",
       "Date": "Feb 2025 - Jul 2025",
       "Description": [
-        "Developed a runtime trace visualization module for factory testers in the automotive sector.",
-        "Used Java, Eclipse RCP, performance optimization, memory management, debugging.",
-        "Used SVN for version control."
+        "Developed a runtime trace visualization tool for embedded automotive ECUs (Electronic Control Units).",
+        "Implemented features in Java with Eclipse RCP, focusing on memory management and performance optimization.",
+        "Version control and collaboration using Tortoise SVN."
       ]
     },
     {
@@ -35,8 +36,9 @@
       "Title": "Full Stack Developer Intern",
       "Date": "Jul 2024 - Sep 2024",
       "Description": [
-        "Built an online food ordering platform with real-time features and scheduling.",
-        "Technologies: Angular, Spring Boot, MySQL, Docker, Kubernetes."
+        "Built a fast-food ordering web platform for real-time order scheduling and pick-up.",
+        "Full stack implementation using Angular (frontend), Spring Boot (backend), MySQL (database), and containerized with Docker and Kubernetes.",
+        "Integrated Spring Security for authentication."
       ]
     },
     {
@@ -44,8 +46,8 @@
       "Title": "Frontend Developer Intern",
       "Date": "Jun 2023 - Aug 2023",
       "Description": [
-        "Developed an E-learning platform with intuitive UI/UX.",
-        "Used Angular, TypeScript, Git, JWT, Scrum."
+        "Developed a responsive and interactive E-learning platform using Angular and TypeScript.",
+        "Managed secure user access via JWT, and collaborated under Scrum methodology using Git."
       ]
     },
     {
@@ -53,8 +55,8 @@
       "Title": "Full Stack Developer Intern (Bachelor PFE)",
       "Date": "Feb 2022 - Jun 2022",
       "Description": [
-        "Built a spare parts management platform.",
-        "Used Angular, Express.js, MySQL, Git."
+        "Created a spare parts management platform with Angular (frontend) and Express.js (backend).",
+        "Stored product and order data in MySQL and versioned code with Git."
       ]
     }
   ],
@@ -64,31 +66,31 @@
   "FeatureProjects.Projects": [
     {
       "Title": "HealthCare",
-      "Description": "AI-based health platform that analyzes patient symptoms and offers personalized medical recommendations in real-time.",
+      "Description": "AI-powered health platform for real-time analysis of symptoms and delivery of medical recommendations using data science techniques.",
       "imgs": [],
       "Technologies": ["Angular", "Django", "MySQL", "Docker", "Kubernetes"]
     },
     {
       "Title": "Agriculture Platform",
-      "Description": "Microservices-based platform enabling communication between farmers and engineers, with notifications, email integration, and feedback.",
+      "Description": "Microservices-based agriculture assistant platform enabling farmers to consult engineers, send feedback, and receive email notifications.",
       "imgs": [],
       "Technologies": ["Spring Boot", "MongoDB", "MySQL", "Docker", "Feign", "Eureka", "API Gateway"]
     },
     {
       "Title": "LawFirm",
-      "Description": "Platform for lawyers and clients to manage legal cases efficiently.",
+      "Description": "Case and client management system for law firms including secure access, user dashboards, and legal document organization.",
       "imgs": [],
       "Technologies": ["Spring Boot", "MySQL", "JWT", "Angular"]
     },
     {
       "Title": "Upwork Clone",
-      "Description": "Platform connecting freelancers and clients for various project collaborations.",
+      "Description": "Freelance job board clone where users can register, create projects, and collaborate based on mutual interest.",
       "imgs": [],
       "Technologies": ["Spring Boot", "MySQL", "JWT"]
     },
     {
       "Title": "Sports Manager",
-      "Description": "Application to manage soccer teams, matches, players, and stadiums, with real-time weather API integration.",
+      "Description": "Soccer team and match management system including player stats, stadium booking, and weather API integration.",
       "imgs": [],
       "Technologies": ["Angular", "Express.js", "MongoDB", "Git", "Weather API"]
     }
