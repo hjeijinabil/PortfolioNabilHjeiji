@@ -1,16 +1,17 @@
 {
   "name": "PortfolioNabilHjeiji",
   "version": "0.0.0",
-  "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "build:prod": "ng build --configuration production --base-href https://hjeijinabil.github.io/",
-    "deploy": "npm run build:prod && ngh --dir=dist/PortfolioNabilHjeiji --cname=hjeijinabil.github.io",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
-  }
+"scripts": {
+  "ng": "ng",
+  "start": "ng serve",
+  "build": "ng build",
+  "build:prod": "ng build --configuration production --base-href /PortfolioNabilHjeiji/",
+  "deploy": "npm run build:prod && ngh --dir=dist/PortfolioNabilHjeiji",
+  "test": "ng test",
+  "lint": "ng lint",
+  "e2e": "ng e2e"
+}
+
 ,
 
   "private": true,
