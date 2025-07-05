@@ -5,8 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --configuration production --base-href https://www.apartiguetat.io/",
-    "deploy": "npm run build:prod && ngh --dir=dist/PortfolioNabilHjeiji --cname=www.apartiguetat.io",
+    "build:prod": "ng build --configuration production --base-href https://hjeijinabil.github.io/",
+    "deploy": "npm run build:prod && ngh --dir=dist/PortfolioNabilHjeiji --cname=hjeijinabil.github.io",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
