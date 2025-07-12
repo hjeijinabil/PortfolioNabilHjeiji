@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1752283363088,
+  "timestamp": 1752284278211,
   "index": "/PortfolioNabilHjeiji/index.html",
   "assetGroups": [
     {
@@ -57,10 +57,8 @@
         "/PortfolioNabilHjeiji/SFMono-Semibold.849266397229adad.woff",
         "/PortfolioNabilHjeiji/SFMono-SemiboldItalic.0ef5133ede504d56.woff2",
         "/PortfolioNabilHjeiji/SFMono-SemiboldItalic.33cb8d6968ae9130.woff",
-        "/PortfolioNabilHjeiji/assets/cv/CV_Hjeiji_Nabil.e156e4320a915fdb800000.pdf",
+        "/PortfolioNabilHjeiji/assets/cv/CV_Hjeiji_Nabil.e156e4320a915fdb80000-_2__2 (1).pdf",
         "/PortfolioNabilHjeiji/assets/cv/CV_Hjeiji_Nabil.e156e4320a915fdb90000.pdf",
-        "/PortfolioNabilHjeiji/assets/cv/CV_Jose_Hernandez_Espanol.pdf",
-        "/PortfolioNabilHjeiji/assets/cv/CV_Jose_Hernandez_Ingles.pdf",
         "/PortfolioNabilHjeiji/assets/fonts/Calibre/Calibre-Light.ttf",
         "/PortfolioNabilHjeiji/assets/fonts/Calibre/Calibre-Light.woff",
         "/PortfolioNabilHjeiji/assets/fonts/Calibre/Calibre-Light.woff2",
@@ -236,10 +234,8 @@
     "/PortfolioNabilHjeiji/SFMono-Semibold.849266397229adad.woff": "999e816498b39e99896d09cb18614e5bb700fa8e",
     "/PortfolioNabilHjeiji/SFMono-SemiboldItalic.0ef5133ede504d56.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/PortfolioNabilHjeiji/SFMono-SemiboldItalic.33cb8d6968ae9130.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
-    "/PortfolioNabilHjeiji/assets/cv/CV_Hjeiji_Nabil.e156e4320a915fdb800000.pdf": "17b08121b1c5beaa4f0e86d17b35a631d506508e",
-    "/PortfolioNabilHjeiji/assets/cv/CV_Hjeiji_Nabil.e156e4320a915fdb90000.pdf": "e5529d7bb8b049a654a773497b2204632dc78adb",
-    "/PortfolioNabilHjeiji/assets/cv/CV_Jose_Hernandez_Espanol.pdf": "c0439e29396dc4c4948d16daa964f4216f99c3f2",
-    "/PortfolioNabilHjeiji/assets/cv/CV_Jose_Hernandez_Ingles.pdf": "c250c583bf70c5b49f26e37e8b031bb9da1b2b88",
+    "/PortfolioNabilHjeiji/assets/cv/CV_Hjeiji_Nabil.e156e4320a915fdb80000-_2__2 (1).pdf": "5399f86bc4b565b7119274b0b1d8ef288f96eeb1",
+    "/PortfolioNabilHjeiji/assets/cv/CV_Hjeiji_Nabil.e156e4320a915fdb90000.pdf": "9b8c66e4c28860856ab9df9b24e6acaad7a35556",
     "/PortfolioNabilHjeiji/assets/fonts/Calibre/Calibre-Light.ttf": "8eccfc3783b04d13dec5887a15c3e00fd28bef7c",
     "/PortfolioNabilHjeiji/assets/fonts/Calibre/Calibre-Light.woff": "e3fbab74fa86b97c78ad1b1965b327fe5b2a1adb",
     "/PortfolioNabilHjeiji/assets/fonts/Calibre/Calibre-Light.woff2": "70021b39a260c5f53d2ec5ba30f37163bbe0ef14",
