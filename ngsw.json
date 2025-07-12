@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1752282724411,
+  "timestamp": 1752283078009,
   "index": "/PortfolioNabilHjeiji/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/PortfolioNabilHjeiji/index.html",
-        "/PortfolioNabilHjeiji/main.dbbaa5705c09678a.js",
+        "/PortfolioNabilHjeiji/main.afb2f73fee318778.js",
         "/PortfolioNabilHjeiji/manifest.webmanifest",
         "/PortfolioNabilHjeiji/polyfills.8da3a09409fbdf43.js",
         "/PortfolioNabilHjeiji/runtime.354fe9b374b3c83c.js",
@@ -149,6 +149,7 @@
         "/PortfolioNabilHjeiji/assets/images/messages_0 (4).amr",
         "/PortfolioNabilHjeiji/assets/images/messages_0 (5).amr",
         "/PortfolioNabilHjeiji/assets/images/messages_0.amr",
+        "/PortfolioNabilHjeiji/assets/images/photo_nabil-removebg-preview.png",
         "/PortfolioNabilHjeiji/assets/images/pokemon.png",
         "/PortfolioNabilHjeiji/assets/images/proyex/proyex1.png",
         "/PortfolioNabilHjeiji/assets/images/proyex/proyex10.png",
@@ -327,6 +328,7 @@
     "/PortfolioNabilHjeiji/assets/images/messages_0 (4).amr": "e9d77e5d46c48ae51c19dad5de27c0506e431bd8",
     "/PortfolioNabilHjeiji/assets/images/messages_0 (5).amr": "541c63cb828734a788fe5508e83f1d75d76a844b",
     "/PortfolioNabilHjeiji/assets/images/messages_0.amr": "6187b6c3adea79c0ffabe3080c60d31c0a1556a9",
+    "/PortfolioNabilHjeiji/assets/images/photo_nabil-removebg-preview.png": "aabacf50daa47e3fdffb251c9119e10221f2976c",
     "/PortfolioNabilHjeiji/assets/images/pokemon.png": "db5b0043f54e7b51254adc06682240cefd4f0d3a",
     "/PortfolioNabilHjeiji/assets/images/proyex/proyex1.png": "8c3f478fcab46cac89e43afade43b12fd6c1fbb1",
     "/PortfolioNabilHjeiji/assets/images/proyex/proyex10.png": "554e73153318d7d6d617762f826101263fe86e8b",
@@ -378,8 +380,8 @@
     "/PortfolioNabilHjeiji/fa-solid-900.cd7322bf5a6e6fcf.svg": "d92687d30fa0d43f9ae71009398507bf813a6875",
     "/PortfolioNabilHjeiji/fa-solid-900.d5b0a3566b352ee9.ttf": "eb8914f6b1797b45ee0883e6089d92695d9f9441",
     "/PortfolioNabilHjeiji/fa-solid-900.e67670b0779338ff.woff": "a22acd7697f36e7d4cc31a853c70e776eac54bb1",
-    "/PortfolioNabilHjeiji/index.html": "66ea61112410f9708e6db4d2e8a0664ac423a5ba",
-    "/PortfolioNabilHjeiji/main.dbbaa5705c09678a.js": "34af670fead4c08f76167e397d54afd13db43077",
+    "/PortfolioNabilHjeiji/index.html": "35272b3d8fc605165e257628feb81666a7282a64",
+    "/PortfolioNabilHjeiji/main.afb2f73fee318778.js": "bad6f9a7ef471583dcacb909cd33d5cb7c45e539",
     "/PortfolioNabilHjeiji/manifest.webmanifest": "d9e92565b3be092fe728cd4c269af5e866223f8f",
     "/PortfolioNabilHjeiji/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/PortfolioNabilHjeiji/polyfills.8da3a09409fbdf43.js": "6b530b83d3a8c6c301a46c73c62dd2cfba87e5ac",
